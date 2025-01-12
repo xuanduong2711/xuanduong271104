@@ -24,4 +24,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
 </a> </a> </p>
 
-⭐️ From [DanielWay17](https://github.com/DanielWay17)
+
