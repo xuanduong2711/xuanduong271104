@@ -1,4 +1,4 @@
-# Hello, I'm Nguyen Cong Tien Dung 😄
+# Hello, I'm Xuan Duong 😄
 
 👨‍💻 A simple guy who loves coding and sharing
 
