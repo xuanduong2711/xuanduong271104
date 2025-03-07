@@ -2,7 +2,11 @@
 
 👨‍💻 A simple guy who loves coding and sharing
 
-🚀 On my way to MLOps Engineering, Data Scientist
+🚀 On my way to MLOps Engineering, Data Alalyst, I'm Xuan Duong 😄
+
+👨‍💻 A simple guy who loves coding and sharing
+
+🚀 On my way to MLOps Engineering, Data analyst
 
 
 ## Connect with me:
